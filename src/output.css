@@ -474,6 +474,9 @@
   .bg-\[\#f3bd39\] {
     background-color: #f3bd39;
   }
+  .bg-\[f1\] {
+    background-color: f1;
+  }
   .bg-green-700 {
     background-color: var(--color-green-700);
   }
